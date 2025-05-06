@@ -1,15 +1,59 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Output and cache
+output/
 *.log
 *.gz
 *.zip
-*.egg-info/
-*.sqlite
-output/
-meta/
+*.tar
+*.tar.gz
+
+# Virtual environment
+venv/
 .env
+.env.*
+
+# Unit test / coverage / pytest
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+.pytest_cache/
+
+# Test artifacts
+tests/fixtures/
+*.sqlite
+
+# IDEs and editors
 .idea/
 .vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
 .DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git
+*.orig
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.egg
+*.egg-info/
+dist/
+build/
