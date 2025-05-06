@@ -1,0 +1,2970 @@
+[
+  {
+    "cve_id": "CVE-2024-10234",
+    "package": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:8.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-10920",
+    "package": "cpe:2.3:a:mariazevedo88:travels-java-api:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:graalvm:22.3.4:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jre:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jre:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jre:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20918",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:graalvm:22.3.4:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jre:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jre:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20919",
+    "package": "cpe:2.3:a:oracle:jre:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20922",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20922",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20922",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20922",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20922",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20922",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20923",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20923",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20923",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20923",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20925",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20925",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20925",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20925",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:graalvm:22.3.4:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jre:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jre:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jre:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20926",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20932",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20932",
+    "package": "cpe:2.3:a:oracle:graalvm:22.3.4:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20932",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20932",
+    "package": "cpe:2.3:a:oracle:jre:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20932",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:-:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update102:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update112:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update152:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update162:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update172:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update192:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update20:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update202:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update212:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update222:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update232:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update241:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update40:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update60:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update66:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update72:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update92:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update101:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update11:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update111:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update121:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update131:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update141:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update151:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update161:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update171:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update181:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update191:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update201:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update211:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update25:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update31:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update45:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update5:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update51:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update65:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update71:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update73:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update74:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update77:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update91:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+    "start_version": "11",
+    "end_version": "11.0.24",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+    "start_version": "17",
+    "end_version": "17.0.10",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+    "start_version": "21",
+    "end_version": "21.0.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone1:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone2:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone3:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone4:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone5:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone6:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone7:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone8:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:milestone9:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update221:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update231:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update242:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update252:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update262:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update271:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update281:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update282:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update291:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update301:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update302:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update312:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update322:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update332:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update342:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update352:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update362:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update372:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update382:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update392:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update402-b00:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update402-b01:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update402-b02:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update402-b03:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update402-b04:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:openjdk:8:update402-b05:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:graalvm:22.3.4:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jre:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jre:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jre:11.0.21:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update391:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20952",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20954",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.9:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20954",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.13:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20954",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.2:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20954",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20954",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.10:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20955",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.8:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20955",
+    "package": "cpe:2.3:a:oracle:graalvm:22.3.4:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20955",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.12:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20955",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.9:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-20955",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21003",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update401:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21003",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update401:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21003",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.9:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21003",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.13:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21005",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update401:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21005",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update401:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21005",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.9:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21005",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.13:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.9:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.2:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.10:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update401:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.10:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.2:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update401:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jre:11.0.22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jre:17.0.10:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jre:21.0.2:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21068",
+    "package": "cpe:2.3:a:oracle:jre:22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21093",
+    "package": "cpe:2.3:a:oracle:java_virtual_machine:*:*:*:*:*:*:*:*",
+    "start_version": "19.3",
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21093",
+    "package": "cpe:2.3:a:oracle:java_virtual_machine:*:*:*:*:*:*:*:*",
+    "start_version": "21.3",
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21098",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.9:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21098",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.13:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21098",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.2:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21098",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21098",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.10:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.10:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jre:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jre:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jre:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jre:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21131",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.10:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jre:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jre:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jre:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21138",
+    "package": "cpe:2.3:a:oracle:jre:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:jre:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.10:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21144",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.10:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.14:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:graalvm:22.0.1:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jre:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jre:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jre:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jre:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.11:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.3:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jdk:22.0.1:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21145",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update411:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.11:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.15:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.12:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jre:23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update421:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update421:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.24:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.12:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jdk:23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update421:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update421:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jre:11.0.24:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jre:17.0.12:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21217",
+    "package": "cpe:2.3:a:oracle:jre:21.0.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:graalvm:21.3.11:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:graalvm:20.3.15:*:*:*:enterprise:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:21.0.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:graalvm_for_jdk:17.0.12:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jre:23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jre:21.0.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jre:17.0.12:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update421:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jre:1.8.0:update421:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jre:11.0.24:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jdk:23:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jdk:21.0.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jdk:17.0.12:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update421:*:*:-:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jdk:1.8.0:update421:*:*:enterprise_performance_pack:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21235",
+    "package": "cpe:2.3:a:oracle:jdk:11.0.24:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone11:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone12:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone13:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone14:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone15:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone16:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone17:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone18:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone19:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone20:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone21:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone22:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone23:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone24:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone25:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone26:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:9.0.0:milestone27:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+    "start_version": "9.0.1",
+    "end_version": "9.0.44",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-21733",
+    "package": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+    "start_version": "8.5.7",
+    "end_version": "8.5.64",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22126",
+    "package": "cpe:2.3:a:sap:netweaver_application_server_java:7.50:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22127",
+    "package": "cpe:2.3:a:sap:netweaver_application_server_java:7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22206",
+    "package": "cpe:2.3:a:clerk:javascript:*:*:*:*:*:node.js:*:*",
+    "start_version": "4.7.0",
+    "end_version": "4.29.3",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22233",
+    "package": "cpe:2.3:a:vmware:spring_framework:6.1.2:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22233",
+    "package": "cpe:2.3:a:vmware:spring_framework:6.0.15:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22234",
+    "package": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+    "start_version": "6.1.0",
+    "end_version": "6.1.7",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22234",
+    "package": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+    "start_version": "6.2.0",
+    "end_version": "6.2.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22236",
+    "package": "cpe:2.3:a:vmware:spring_cloud_contract:*:*:*:*:*:*:*:*",
+    "start_version": "3.1.0",
+    "end_version": "3.1.10",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22236",
+    "package": "cpe:2.3:a:vmware:spring_cloud_contract:*:*:*:*:*:*:*:*",
+    "start_version": "4.0.0",
+    "end_version": "4.0.5",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-22236",
+    "package": "cpe:2.3:a:vmware:spring_cloud_contract:4.1.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-23681",
+    "package": "cpe:2.3:a:ls1intum:artemis_java_test_sandbox:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "1.11.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-23682",
+    "package": "cpe:2.3:a:ls1intum:artemis_java_test_sandbox:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "1.8.0",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-23683",
+    "package": "cpe:2.3:a:ls1intum:artemis_java_test_sandbox:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "1.7.6",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-23687",
+    "package": "cpe:2.3:a:openlibraryfoundation:mod-data-export-spring:*:*:*:*:*:*:*:*",
+    "start_version": "2.0.0",
+    "end_version": "2.0.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-23687",
+    "package": "cpe:2.3:a:openlibraryfoundation:mod-data-export-spring:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "1.5.4",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-23689",
+    "package": "cpe:2.3:a:clickhouse:java_libraries:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "0.4.6",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-24059",
+    "package": "cpe:2.3:a:aitangbao:springboot-manager:1.6:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-24060",
+    "package": "cpe:2.3:a:aitangbao:springboot-manager:1.6:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-24061",
+    "package": "cpe:2.3:a:aitangbao:springboot-manager:1.6:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-24062",
+    "package": "cpe:2.3:a:aitangbao:springboot-manager:1.6:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-24569",
+    "package": "cpe:2.3:a:pixee:java_code_security_toolkit:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "1.1.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-24743",
+    "package": "cpe:2.3:a:sap:netweaver_application_server_java:7.50:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-25469",
+    "package": "cpe:2.3:a:crmeb:crmeb_java:1.3.4:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-27267",
+    "package": "cpe:2.3:a:ibm:java_sdk:*:*:*:*:java_technology:*:*:*",
+    "start_version": "8.0.0.0",
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-27267",
+    "package": "cpe:2.3:a:ibm:java_sdk:*:*:*:*:java_technology:*:*:*",
+    "start_version": "7.1.0.0",
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-28164",
+    "package": "cpe:2.3:a:sap:netweaver_application_server_java:gp-core_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-2914",
+    "package": "cpe:2.3:a:djl:deep_java_library:0.26.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-30054",
+    "package": "cpe:2.3:a:microsoft:powerbi-javascript:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "2.23.1",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.93:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.54:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.89:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.85:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.77:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.53:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:kernel_7.22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:krnl64uc_7.53:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:krnl64uc_7.22ext:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:krnl64uc_7.22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:krnl64nuc_7.22ext:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-33005",
+    "package": "cpe:2.3:a:sap:netweaver_java:krnl64nuc_7.22:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-34688",
+    "package": "cpe:2.3:a:sap:netweaver_application_server_java:mmr_server_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-36120",
+    "package": "cpe:2.3:a:deobfuscate:javascript_deobfuscator:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "1.1.0",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-37084",
+    "package": "cpe:2.3:a:vmware:spring_cloud_data_flow:*:*:*:*:*:*:*:*",
+    "start_version": "2.11.0",
+    "end_version": "2.11.4",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone3:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone4:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone5:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone1:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone2:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone7:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone10:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone11:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone12:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone13:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone14:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone15:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone16:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone17:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone6:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone8:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone9:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone1:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+    "start_version": "10.1.1",
+    "end_version": "10.1.25",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+    "start_version": "9.0.13",
+    "end_version": "9.0.90",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone18:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone19:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:10.1.0:milestone20:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone2:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone3:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone4:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone5:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone6:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone7:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone8:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone9:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone10:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone11:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone12:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone13:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone14:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone15:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone16:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone17:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone18:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone19:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38286",
+    "package": "cpe:2.3:a:apache:tomcat:11.0.0:milestone20:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38810",
+    "package": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+    "start_version": "6.3.0",
+    "end_version": "6.3.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38820",
+    "package": "cpe:2.3:a:vmware:spring_framework:*:*:*:*:*:*:*:*",
+    "start_version": "6.1.0",
+    "end_version": "6.1.14",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38820",
+    "package": "cpe:2.3:a:vmware:spring_framework:*:*:*:*:*:*:*:*",
+    "start_version": "6.0.0",
+    "end_version": "6.0.25",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-38820",
+    "package": "cpe:2.3:a:vmware:spring_framework:*:*:*:*:*:*:*:*",
+    "start_version": "5.3.0",
+    "end_version": "5.3.41",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-39677",
+    "package": "cpe:2.3:a:nhibernate:nhibernate-core:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "5.4.9",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-39677",
+    "package": "cpe:2.3:a:nhibernate:nhibernate-core:*:*:*:*:*:*:*:*",
+    "start_version": "5.5.0",
+    "end_version": "5.5.2",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-40539",
+    "package": "cpe:2.3:a:codermy:my-springsecurity-plus:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "2024.07.03",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-40540",
+    "package": "cpe:2.3:a:codermy:my-springsecurity-plus:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "2024.07.03",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-40541",
+    "package": "cpe:2.3:a:codermy:my-springsecurity-plus:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "2024.07.03",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-40542",
+    "package": "cpe:2.3:a:codermy:my-springsecurity-plus:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "2024.07.03",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-41600",
+    "package": "cpe:2.3:a:talelin:lin-cms-spring-boot:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-41948",
+    "package": "cpe:2.3:a:biscuitsec:biscuit-java:*:*:*:*:*:*:*:*",
+    "start_version": "3.0.0",
+    "end_version": "4.0.0",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-42369",
+    "package": "cpe:2.3:a:matrix:javascript_sdk:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": "34.3.1",
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-42374",
+    "package": "cpe:2.3:a:sap:bex_web_java_runtime_export_web_service:bi-base-e_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-42374",
+    "package": "cpe:2.3:a:sap:bex_web_java_runtime_export_web_service:bi-base-b_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-42374",
+    "package": "cpe:2.3:a:sap:bex_web_java_runtime_export_web_service:bi-ibc_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-42374",
+    "package": "cpe:2.3:a:sap:bex_web_java_runtime_export_web_service:bi-base-s_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-42374",
+    "package": "cpe:2.3:a:sap:bex_web_java_runtime_export_web_service:biwebapp_7.5:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-46382",
+    "package": "cpe:2.3:a:linlinjava:litemall:1.8.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-50651",
+    "package": "cpe:2.3:a:geeeeeeeek:java_shop:1.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-50652",
+    "package": "cpe:2.3:a:geeeeeeeek:java_shop:1.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-6539",
+    "package": "cpe:2.3:a:heyewei:springbootcms:*:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-7885",
+    "package": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:7.0.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-7885",
+    "package": "cpe:2.3:a:redhat:jboss_fuse:7.0.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-7885",
+    "package": "cpe:2.3:a:redhat:build_of_apache_camel_for_spring_boot:-:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  },
+  {
+    "cve_id": "CVE-2024-7885",
+    "package": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:8.0.0:*:*:*:*:*:*:*",
+    "start_version": null,
+    "end_version": null,
+    "ecosystem": "Java"
+  }
+]
