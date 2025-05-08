@@ -14,7 +14,7 @@ This tool processes large vulnerability datasets and isolates only Java-related 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vulnrefiner.git
+git clone https://github.com/Abel0217/vulnrefiner.git
 cd vulnrefiner
 
 # Create virtual environment (recommended)
